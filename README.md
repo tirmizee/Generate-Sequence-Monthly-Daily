@@ -4,6 +4,6 @@
 
 - Sequence
 
-- Function
-
 - Execute immediate
+
+- SQL Function or Java Function
